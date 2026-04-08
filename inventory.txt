@@ -1,0 +1,6 @@
+A102;Coke(320mL);15
+A103;Pepsi(320mL);15
+B101;Beef(200g);10
+B102;Whole_Chicken;10
+C101;Grapes(500g);25
+A101;Sprite(320mL);45
